@@ -17,7 +17,8 @@ Die Karte zeigt die ganze Welt am 1. Januar 1400. Vorbild für das Aussehen ist 
 
 - **Verschieben und zoomen** mit dem Finger.
 - **Antippen:** Ein Tipp auf eine Provinz lässt sie und ihr Reich aufleuchten. Die Provinz wird heller, das Reich bekommt einen hellen Umriss. Ein Tipp aufs Meer löscht das.
-- **Einfärben:** Die Karte kann die Provinzen nach etwas anderem als dem Besitzer färben. Grenzen und Namen bleiben dabei. Welche Angaben so gezeigt werden, ist noch nicht gebaut.
+- **Kartenansichten:** Im Menü hinter den drei Strichen wählt man, wonach die Karte gefärbt ist: **Reiche**, **Religionen**, **Kulturen** oder **Märkte**. Grenzen und Namen bleiben dabei. Jede Provinz zeigt die Religion oder Kultur, die die meisten ihrer Leute haben, oder den Markt, an den sie verkauft (grau, wenn sie keinen erreicht).
+- Bei jedem Seitenwechsel ist nichts mehr hervorgehoben.
 - **Besitzwechsel:** Wechselt eine Provinz den Besitzer, passen sich Farbe, Grenzen und Umriss sofort an.
 
 ## Noch anders als im Vorbild

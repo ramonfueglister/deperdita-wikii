@@ -2,7 +2,26 @@
 
 # Verlauf
 
-## 23. November 2026
+## 23. November 2026, Nachmittag und Abend
+
+- Reiche 1400 berichtigt: Indien, Russland, Goldene Horde, Genua, Mongolei, Java, Lan Na, Mexiko, Michoacán
+- Kartenansichten: Menü hinter den drei Strichen, Religionen, Kulturen, Märkte
+- Krieg und Frieden: Frieden als Start, Krieg erklären, Kriegsstand aus Schlachten, Frieden mit Zustimmung, Waffenstillstand 20 Quartale
+- Bauen aus dem Provinzblatt, Baumenü wie in EU5
+- Kultur und Religion je Stadt, im Provinzblatt und in der Stadtansicht
+- Provinzblatt mit Reitern Bevölkerung und Städte, Stadt mit Stadt und Umland
+- Schwebende Leiste mit fünf Bereichen, Seite Bevölkerung
+- Geld: Startgeld 13 Pfennige je Kopf, Marktkasse, Zehnt und Pacht
+- Weberei: Handwerker weben Wolle zu Wolltuch; Kleidung 0,7 kg Tuch je Kopf und Jahr
+- Holzfäller in Stufen, Wald im Umland
+- Weide gibt Milch, Fleisch und Wolle
+- 13 Gruppen je Stadt, Arbeitende und Kinder getrennt; Soldaten in China
+- Städter aus den Stadtlisten statt aus HYDE; Stadtwerte geprüft und berichtigt
+- Preisgrenze 25 bis 175 % gestrichen; Preis einer fehlenden Ware bleibt stehen
+- Erträge nach Quellen für Nordindien, Ming-China und Ägypten
+- Aufräumen im Code und eine gemeinsame Prüfung für alles
+
+## 23. November 2026, Vormittag
 
 - Alte Flutter-App und Webkarte gelöscht
 - Jede Stadt isst für sich

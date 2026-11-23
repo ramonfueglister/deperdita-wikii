@@ -10,11 +10,12 @@ Das Spiel ist in Entwicklung. Dieses Wiki beschreibt nur, was entschieden oder g
 
 - [Karte](karte.md): wie die Weltkarte aussieht und was sie kann
 - [Welt im Jahr 1400](welt-1400.md): Provinzen, Reiche, Städte, Einwohner, Märkte
-- [Wirtschaft](wirtschaft.md): Ernte, Nahrung, Kleidung, Märkte, Preise, Handel, Mühlen
+- [Wirtschaft](wirtschaft.md): Ernte, Weide, Gebäude, Nahrung, Kleidung, Geld, Preise, Handel
+- [Krieg und Frieden](krieg.md)
 - [Oberfläche](oberflaeche.md): die Seiten im Spiel
 - [Technik](technik.md): woraus das Spiel gebaut ist
 - [Quellen](quellen.md): woher die Zahlen kommen
 - [Abgemacht, noch nicht gebaut](abgemacht.md)
 - [Verlauf](verlauf.md): was wann dazukam
 
-Stand: 23. November 2026
+Stand: 23. November 2026, abends
