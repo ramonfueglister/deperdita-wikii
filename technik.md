@@ -19,13 +19,13 @@ Jede Partie ist eine SQLite-Datei. Der Zustand der Welt liegt darin als **ein Sc
 
 ## Umbau auf Godot
 
-Das Spiel lief zuerst in Flutter mit einer Webkarte. Am 23. November 2026 wurde der Umzug auf Godot entschieden. Der Rust-Kern bleibt. Der Umbau läuft in Etappen:
+Das Spiel lief zuerst in Flutter mit einer Webkarte. Am 23. November 2026 wurde der Umzug auf Godot entschieden. Der Rust-Kern bleibt. Die alte Flutter-App und die Webkarte sind seither gelöscht. Der Umbau läuft in Etappen:
 
 1. Fundament: Godot-Projekt, Brücke zum Kern, Weltkarte, Android-Bau (fertig)
 2. Grundgerüst: Start, Reichswahl, Spiel, Produktion, Markt (fertig)
 3. Karte im Look der EU5-Karte (fertig)
 4. Übrige Seiten: Hof, Haus, Rat, Militär
-5. Gleichstand prüfen und die alte Flutter-App löschen
+5. Alte Flutter-App und Webkarte löschen (fertig)
 6. 3D-Köpfe
 
 Auf Android zeichnet Godot vorerst mit OpenGL ES 3, weil der Emulator das Bild der Vulkan-Variante nicht zeigen kann.

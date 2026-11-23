@@ -4,6 +4,7 @@
 
 ## 23. November 2026
 
+- Alte Flutter-App und Webkarte gelöscht
 - Jede Stadt isst für sich
 - Karte: Provinz und Reich hervorheben, Karte nach anderen Angaben einfärben
 - Markt merkt sich Preis und Vorrat der letzten 8 Quartale

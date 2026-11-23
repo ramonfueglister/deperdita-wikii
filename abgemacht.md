@@ -16,5 +16,4 @@ Hier steht nur, was schon zugesagt ist.
 
 - Seiten Hof, Haus, Rat und Militär (in Arbeit)
 - Provinzblatt und neue Marktansicht im Stil von Victoria 3 (in Arbeit)
-- Alte Flutter-App löschen
 - 3D-Köpfe
